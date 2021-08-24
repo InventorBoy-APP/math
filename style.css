@@ -19,7 +19,11 @@ body
 }
 #word
 {
-	width: 60%;
+	width: 80%;
+}
+#wordtwo
+{
+	width: 80%;
 }
 #word_display
 {
